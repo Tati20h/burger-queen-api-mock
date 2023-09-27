@@ -102,6 +102,24 @@
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
+    },
+    {
+      "email": "chefsito@mail.com",
+      "password": "$2a$10$ZYxeh92E9WeWQNlBFeQs.ePseBut7CA/h9vk8uSTAJjNbpM9r3O7q",
+      "role": "chef",
+      "id": 3
+    },
+    {
+      "email": "mesero@mail.com",
+      "password": "$2a$10$dmrGeVh7aqeXDWObUZpZgudf5WilMasC0QLTZJ4UFSdL1N/76A/yO",
+      "role": "mesero",
+      "id": 4
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$AE67U4zAvR0eTIuxeJXheuyLVgfZHBIj4eEFcOSurCmF1agUfo7uy",
+      "role": "admin",
+      "id": 5
     }
   ]
 }
